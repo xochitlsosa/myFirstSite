@@ -1,0 +1,26 @@
+body{
+    background: rgb(252,253,235);
+    background: radial-gradient(circle, rgba(252,253,235,1) 0%, rgba(227,206,189,1) 85%);/* backgorund*/
+    font-family:cursive; /*to download fonts, paste embedded code to html head and declare here*/
+    color:#322030 ;
+    cursor: url('hueso1.png'), auto;
+}
+
+.title{
+    text-align: center;
+    font-size: 35px;
+}
+
+.xiori {
+    height: 250px; /*change image size*/
+    margin-left: auto; /*set margins to auto to center images*/
+    margin-right: auto ;
+    display: block;
+    cursor: url('peanut.png'), auto;
+}
+
+.menu {
+    font-size: 30px;
+    background-color:#e3cebd ;
+    text-align: center;
+}
